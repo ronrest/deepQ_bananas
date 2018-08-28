@@ -1,0 +1,7 @@
+__pycache__/*
+*.pyc
+*.zip
+Banana_Linux/*
+.ipynb_checkpoints/*
+unity-environment.log
+*.gvdesign
