@@ -17,7 +17,10 @@ You can train the agent from scratch yourself, or make use of a pretrained agent
 Below is a video of the trained agent interacting with the world.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cSQVqcWtz2o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cSQVqcWtz2o/0.jpg)](https://www.youtube.com/watch?v=cSQVqcWtz2o)
+
+https://www.youtube.com/embed/cSQVqcWtz2o
 
 
 ## Environment Description
@@ -171,4 +174,4 @@ python banana_run.py
 
 ## Credits
 
-Much of the codebase in this repository is based on the starter code provided by the [Udacity Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation). 
+Much of the codebase in this repository is based on the starter code provided by the [Udacity Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation).

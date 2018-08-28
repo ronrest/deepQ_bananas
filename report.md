@@ -49,7 +49,10 @@ The agent was able to solve this problem within 419 episodes of gameplay. A plot
 
 Below is a video of the trained agent interacting with the world.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cSQVqcWtz2o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cSQVqcWtz2o/0.jpg)](https://www.youtube.com/watch?v=cSQVqcWtz2o)
+
+https://www.youtube.com/embed/cSQVqcWtz2o
 
 
 ## Future Improvements
